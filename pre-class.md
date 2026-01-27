@@ -25,4 +25,5 @@
 4. **Optional But Helpful:**
    - Basic Python familiarity (covered if needed in Section 3)
    - Familiarity with terminal basics (can be refreshed in first 10 min)
+   - **[Git Introduction Slides](https://pandelisz.github.io/git-intro-slides/#/1)** - A visual and beginner-friendly tutorial that covers the core concepts of Git.
 
