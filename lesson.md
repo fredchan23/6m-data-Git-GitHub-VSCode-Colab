@@ -6,7 +6,7 @@
 
 **Goal:** Empower non-technical learners to manage versions, sync work across devices, and collaborate using Git, GitHub, VS Code, and Google Colab.
 
-Watch this intro video: [[Git & GitHub Zero to Hero]](https://youtu.be/1I79WAZ4uSU)
+Watch this intro video: [Git & GitHub Zero to Hero](https://youtu.be/1I79WAZ4uSU) & [Google Colab](https://www.youtube.com/watch?v=V7RXyqFUR98)
 
 ## **🎯 Learning Objectives**
 
@@ -41,7 +41,7 @@ By the end of this session, you will be able to:
 | **2:10 \- 2:50** | **Exercise C: Teamwork Simulation (Pull Requests)** | Hands-on (40m) |
 | **2:50 \- 3:00** | **Wrap Up & Next Steps** | Summary (10m) |
 
-## **📘 Module 1: The "Why" & The Cloud (20 mins)**
+## **📘 Part 1: The "Why" & The Cloud (20 mins)**
 
 ### **The Concept**
 
@@ -51,23 +51,23 @@ Imagine you are writing a very important document. You save it as `Final.docx`. 
 
 **GitHub** is simply a website where we store those snapshots. Think of it like Google Drive or Dropbox, but specifically designed for tracking changes in text and code.
 
+**Google Colab** (short for Colaboratory) is a free cloud-based platform for writing and running Python code in your web browser. Think of it as a notebook where you can write code, see results immediately, and save everything to the cloud without installing anything on your computer.
+
+* **Why use Google Colab for data science?**
+
+* * **No installation needed:** Just open your browser and start coding.
+* * **Free computing power:** Access to GPUs and TPUs for machine learning tasks.
+* * **Easy sharing:** Share notebooks with colleagues just like Google Docs.
+* * **GitHub integration:** Save your work directly to GitHub repositories.
+* * **Pre-installed libraries:** Common data science libraries (pandas, numpy, matplotlib) are already available.
+
 ### **Key Terms**
 
 * **Repository (Repo):** A project folder.  
 * **Commit:** A save point (snapshot).  
 * **Push:** Uploading your save points to the cloud (GitHub).
 
-* ### **Google Colab**
 
-* **Google Colab** (short for Colaboratory) is a free cloud-based platform for writing and running Python code in your web browser. Think of it as a notebook where you can write code, see results immediately, and save everything to the cloud without installing anything on your computer.
-
-* **Why use Google Colab for data science?**
-
-* * **No installation needed:** Just open your browser and start coding.
-  * * **Free computing power:** Access to GPUs and TPUs for machine learning tasks.
-    * * **Easy sharing:** Share notebooks with colleagues just like Google Docs.
-      * * **GitHub integration:** Save your work directly to GitHub repositories.
-        * * **Pre-installed libraries:** Common data science libraries (pandas, numpy, matplotlib) are already available.
 
 ## **💻 Exercise A: The Cloud Connection (30 mins)**
 
@@ -104,7 +104,7 @@ print("Hello, GitHub! This is my first commit.")
 
 ---
 
-## **📘 Module 2: The Mental Model (10 mins)**
+## **📘 Part 2: The Mental Model (10 mins)**
 
 *Goal: Sync VS Code with GitHub and master the "Golden Loop".*
 
@@ -160,7 +160,7 @@ There are three places your work lives:
 6. **Verify:**  
    * Go to your GitHub webpage. Refresh. You will see `notes.txt`.
 
-## **📘 Module 3: Collaboration Theory (10 mins)**
+## **📘 Part 3: Collaboration Theory (10 mins)**
 
 If we are all working on the same file at the same time, we might overwrite each other's work. To solve this, we use **Branches**.
 
@@ -215,5 +215,3 @@ You have done it\! You have gone from zero to a full collaborative workflow.
 5. **Pull:** Download updates from Cloud.
 
 Keep practicing. Create a repo for your next project, even if it is just a grocery list or a personal journal. The more you use these tools, the more natural they will feel.
-
-Thank you for joining me\!
